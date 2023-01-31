@@ -14,7 +14,7 @@
 - 📝 
 - 💻 I use daily  **.java**, **.py**
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
-- 💬 Talk to me about artificial Intelligence, python 
+- 💬 Talk to me about artificial Intelligence, python and android application
 - 👯 
 - ⚡ Fun fact: Je connais le français
 - 🧑‍💻 Tech I work on :
