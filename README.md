@@ -13,7 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 
 - 💻 I use daily  **.java**, **.py**
-- 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
+- 📖 I am currently reading **Designing Data Intensive Application**
 - 💬 Talk to me about artificial Intelligence, python and android application
 - 👯 
 - ⚡ Fun fact: Je connais le français
