@@ -4,7 +4,7 @@
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/chemsseddine-barouda-a551bb247/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chemsseddine-barouda" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/chemssou#5227" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="chemssou#5227" height="40" width="30" /></a>&nbsp;
-<a href=""><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
+<a href=""><img align="center" alt="Buy me a Coffee" width="30px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg](https://raw.githubusercontent.com/huggingface/datasets/main/docs/source/imgs/datasets_logo_name.jpg)" /></a>
 </p>
 
 
